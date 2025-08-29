@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p122464-e1206386.adobeaemcloud.com/bin/franklin.delivery/roberttoddhoven/wknd-universal/main"
+    url: "https://author-p122464-e1614705.adobeaemcloud.com/bin/franklin.delivery/roberttoddhoven/wknd-universal/main"
     type: "markup"
     suffix: ".html"
