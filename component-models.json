@@ -171,6 +171,16 @@
     ]
   },
   {
+    "id": "junk",
+    "fields": [
+      {
+        "component": "text",
+        "name": "junk-title",
+        "label": "Junk Title"
+      }
+    ]
+  },
+  {
     "id": "button",
     "fields": [
       {

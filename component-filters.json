@@ -24,7 +24,8 @@
       "video",
       "separator",
       "form",
-      "embed-adaptive-form"
+      "embed-adaptive-form",
+      "junk"
     ]
   },
   {
@@ -55,7 +56,8 @@
       "text",      
       "title",
       "video",
-      "separator"
+      "separator",
+      "junk"
     ]
   },
   {

@@ -1,16 +1,16 @@
 {
   "mappings": [
-    "/content/rth-wknd-ue/language-masters/en:/",
-    "/content/rth-wknd-ue/language-masters/en/:/",
-    "/content/rth-wknd-ue/language-masters/en/:/en/",
-    "/content/rth-wknd-ue/configuration:/.helix/config.json",
-    "/content/rth-wknd-ue/metadata:/metadata.json",
-    "/content/rth-wknd-ue/redirects:/redirects.json",
-    "/content/rth-wknd-ue/placeholders:/placeholders.json",
-    "/content/rth-wknd-ue.resource/language-masters/en/query-index.json:/en/query-index.json"
+    "/content/rth-wknd-ue1/language-masters/en:/",
+    "/content/rth-wknd-ue1/language-masters/en/:/",
+    "/content/rth-wknd-ue1/language-masters/en/:/en/",
+    "/content/rth-wknd-ue1/configuration:/.helix/config.json",
+    "/content/rth-wknd-ue1/metadata:/metadata.json",
+    "/content/rth-wknd-ue1/redirects:/redirects.json",
+    "/content/rth-wknd-ue1/placeholders:/placeholders.json",
+    "/content/rth-wknd-ue1.resource/language-masters/en/query-index.json:/en/query-index.json"
   ],
   "includes": [
-    "/content/rth-wknd-ue/",
-    "/content/dam/rth-wknd-ue/"
+    "/content/rth-wknd-ue1/",
+    "/content/dam/rth-wknd-ue1/"
   ]
 }
