@@ -25,7 +25,7 @@
       "separator",
       "form",
       "embed-adaptive-form",
-      "junk"
+      "article-list"
     ]
   },
   {
@@ -57,7 +57,8 @@
       "title",
       "video",
       "separator",
-      "junk"
+      "article-list"
+
     ]
   },
   {

@@ -487,6 +487,16 @@
     ]
   },
   {
+    "id": "article-id",
+    "fields": [
+      {
+        "component": "aem-content",
+        "name": "reference",
+        "label": "Reference"
+      }
+    ]
+  },
+  {
     "id": "contentfragment",
     "fields": [
       {
